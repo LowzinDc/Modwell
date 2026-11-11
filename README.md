@@ -511,7 +511,6 @@ Kod katkıları, hata bildirimleri ve dokümantasyon geliştirmeleri için proje
 | [Lisans](LICENSE.md) | **GPL-3.0-only** lisansının tam metni. |
 
 ---
-Modwell Bot'un kullandığı temel altyapı Arvis'e aittir; altyapının orijinali budur
 <div align="center">
 
 **ALL In ONE · by arviis.**<br>
