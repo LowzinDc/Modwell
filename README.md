@@ -13,7 +13,7 @@ Moderasyon, otomasyon, topluluk araçları, müzik ve web yönetim paneli.<br>
 ![Node.js](https://img.shields.io/badge/Node.js-22.13%2B_%2822.x%29-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Lisans](https://img.shields.io/badge/lisans-GPL--3.0--only-64748b?style=for-the-badge)
 
-[Hızlı başlangıç](#hizli-baslangic) · [Web paneli](#web-paneli) · [Veritabanı](#veritabani) · [Sorun giderme](#sorun-giderme)
+[Hızlı başlangıç](#hizli-baslangic) · [Web paneli](#web-paneli) · [Veritabanı](#veritabani) · [Sorun giderme](#sorun-giderme)·[Github](https://github.com/ArviiSoft)
 
 </div>
 
